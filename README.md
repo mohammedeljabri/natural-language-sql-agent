@@ -66,14 +66,16 @@ analyse de portefeuilles clients, suivi de conformité, reporting opérationnel,
 
 ---
 
-## Auteur
 
-**Mohammed El Jabri**
-Data Scientist & Enseignant à l'Université de Technologie de Troyes (UTT)
-Expert en agents IA appliqués aux environnements professionnels
+## 👤 Auteur
 
-👉 [LinkedIn](https://linkedin.com/in/mohammedeljabri)
+**Mohammed El Jabri**<br> 
+Enseignant - Expert Data & IA<br>
+Univerité Technologique de Troyes
+
+👉 LinkedIn : https://www.linkedin.com/in/mohammed-el-jabri-b4435511/<br>
+👉 mohammed.el_jabri@utt.fr
 
 ---
-
-*Ces approches sont directement transposables à des environnements professionnels réels.*
+*Ces approches sont directement transposables 
+à des environnements professionnels réels.*
